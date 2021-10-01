@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/41273041/what-does-combined-together-do-in-r
 
 * Cast &[i8] to &[u8] (safe)
 https://users.rust-lang.org/t/how-to-convert-i8-to-u8/16308/3
+
+* When mark a function as unsafe
+https://stackoverflow.com/questions/29050360/how-do-i-decide-when-to-mark-a-function-as-unsafe
